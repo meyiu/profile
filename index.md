@@ -48,6 +48,9 @@ My plan to achieve the skills, qualifications and experience needed for the posi
 
 ## 4. Personal Profile
 
+<img src="https://user-images.githubusercontent.com/54088435/63208163-338e9600-c114-11e9-8788-a9bcbfa548d5.png" width="400" height="250" />
+
+
 The results from these tests describes my personality and mindset and I believe that these results are accurate and displays how I act in society. It may influence me to overcome my introvert trait and encourage me to be more active in a team. I would also use these results to find various types of team members to ensure that our group will be able to work on each of our strengths and weaknesses.
 
 ## 5. Project Ideas
