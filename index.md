@@ -11,19 +11,19 @@
 - Languages: English, Indonesian, Japanese
 - Fact about myself: I love music, fashion, piercings, tattoos, travel, coffee, gaming and Japanese animation. I also want to work and live overseas, and design my own brand or make my own art.
 
-<img src="https://user-images.githubusercontent.com/54088435/63213908-26de6200-c155-11e9-8998-fd59c00a63a7.jpg" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/54088435/63213678-8be48880-c152-11e9-966b-cedfb8965ec1.jpg" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/54088435/63213974-0367e700-c156-11e9-818d-4e47bf02728e.jpg" width="350" height="250" />
+<img src="https://user-images.githubusercontent.com/54088435/63213908-26de6200-c155-11e9-8998-fd59c00a63a7.jpg" width="200" height="200" /> <img src="https://user-images.githubusercontent.com/54088435/63213678-8be48880-c152-11e9-966b-cedfb8965ec1.jpg" width="200" height="200" /> <img src="https://user-images.githubusercontent.com/54088435/63213974-0367e700-c156-11e9-818d-4e47bf02728e.jpg" width="300" height="200" />
 
 ## 2. Interest in IT
 
 Through the development of technology in recent years, I have grown interest in the future of technology and how it will affect society and the environment. My interest in IT started through sci-fi & cyberpunk Japanese animations such as Psycho Pass, Ghost in the Shell and Akira. 
 
-<img src="https://user-images.githubusercontent.com/54088435/63207860-e0ffaa80-c110-11e9-9f92-8bfb0b245b5d.gif" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/54088435/63207999-7bacb900-c112-11e9-9988-77f991959584.gif" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/54088435/63208019-cd554380-c112-11e9-9e0e-47fbe1592568.gif" width="350" height="250" />
+<img src="https://user-images.githubusercontent.com/54088435/63207860-e0ffaa80-c110-11e9-9f92-8bfb0b245b5d.gif" width="200" height="200" /> <img src="https://user-images.githubusercontent.com/54088435/63207999-7bacb900-c112-11e9-9988-77f991959584.gif" width="200" height="200" /> <img src="https://user-images.githubusercontent.com/54088435/63208019-cd554380-c112-11e9-9e0e-47fbe1592568.gif" width="300" height="200" />
 
 The futuristic environment and aspects of these series was what started my interest in IT and has made me wonder how technology would evolve in the future. The animation and visuals also made me interested in the production and design process of the series. Furthermore, I enjoy online shopping, thus I am also interested in how the fashion and clothing industry efficiently use technology to broaden their target market. I chose RMIT because I have heard that the IT course here is very interesting and has a good balance of both practical work and theories. Since I am new to IT, I expect to learn a lot more about this subject and how it will develop and change society in the future.
 
 ## 3. Ideal Job
 
-<img src="https://user-images.githubusercontent.com/54088435/63207738-99781f00-c10e-11e9-996b-dc0babc8f8fa.png" width="430" height="600" /> <img src="https://user-images.githubusercontent.com/54088435/63207747-caf0ea80-c10e-11e9-9f98-cb8cae6c515d.png" width="430" height="600" />
+<img src="https://user-images.githubusercontent.com/54088435/63207738-99781f00-c10e-11e9-996b-dc0babc8f8fa.png" width="350" height="450" /> <img src="https://user-images.githubusercontent.com/54088435/63207747-caf0ea80-c10e-11e9-9f98-cb8cae6c515d.png" width="350" height="450" />
 
 
 ### Description
@@ -47,17 +47,17 @@ My plan to achieve the skills, qualifications and experience needed for the posi
 ### Myers-Briggs Test
 
 
-<img src="https://user-images.githubusercontent.com/54088435/63208163-338e9600-c114-11e9-8788-a9bcbfa548d5.png" width="400" height="250" />
+<img src="https://user-images.githubusercontent.com/54088435/63208163-338e9600-c114-11e9-8788-a9bcbfa548d5.png" width="350" height="200" />
 
 ### Learning Style Test
 
 
-<img src="https://user-images.githubusercontent.com/54088435/63208184-7486aa80-c114-11e9-876d-6733081e141d.png" width="450" height="150" />
+<img src="https://user-images.githubusercontent.com/54088435/63208184-7486aa80-c114-11e9-876d-6733081e141d.png" width="350" height="100" />
 
 ### Big Five Personality Test
 
 
-<img src="https://user-images.githubusercontent.com/54088435/63208186-76e90480-c114-11e9-9b1f-9e1aa3592b3a.png" width="250" height="180" />
+<img src="https://user-images.githubusercontent.com/54088435/63208186-76e90480-c114-11e9-9b1f-9e1aa3592b3a.png" width="200" height="160" />
 
 
 The results from these tests describes my personality and mindset and I believe that these results are accurate and displays how I act in an environment. These results also help me to understand my strength and weakness points, and to realise how I think and act.  It may influence me to overcome my introvert trait and encourage me to be more active in a team. It would also influence me to focus on my strengths and learning styles to achieve the best possible result within the group work. I would use these results to find various types of team members to ensure that our group will be able to work on each of our strengths and weaknesses. I believe that when forming a team, it is important to have a diverse personality traits to ensure we all can work on our different strengths and expertise.
@@ -77,7 +77,7 @@ From my experiences in online shopping, it gets very cluttered when looking at d
 The app will have a sidebar categorised with Home, Browse, Market. Forums and Profile icons to create an organised area. Furthermore, users are encouraged to create their own profiles to for easier accessibility and better security. The design of the app will be clean and minimal to ensure easier browsing.
 The Home page will display recent fashion articles and upcoming releases, as well as a gallery of user's most liked photos. Moreover, it will also feature current fashion trends of celebrities and other Instagrammers. The Browse page will allow users to search a specific product or brand, with additional filters to make the process easier. The Market page will contain not only popular streetwear brands, but will also allow individuals to buy and sell their own products. The profit of the items sold will be given but  Furthermore, rare products are able to be put on bid for better chances of purchasing items. The availability of the item is also displayed, and multiple links to different stores are placed to allow users to check the stores from our app rather than having multiple websites opened at once. There will also be a Forums page where users are able to discuss fashion topics and identify products or brands they don't know. It will be a great way for all fashion enthusiasts to gather and socialise. Lastly, there will be a Profile page where users are able to set up their name, profile picture, favourite brands, and are able to link and upload their own images to the app for others to like, share and see. The most liked photo will be featured in the home page for a week for everyone to see.
 
-<img src="https://user-images.githubusercontent.com/54088435/63214181-4925af00-c158-11e9-90d1-6d1b4e256a22.jpg" width="270" height="270" /> <img src="https://user-images.githubusercontent.com/54088435/63214192-6fe3e580-c158-11e9-875e-c5abcae6e154.jpg" width="270" height="270" /> <img src="https://user-images.githubusercontent.com/54088435/63214216-b20d2700-c158-11e9-9cac-6add81e76a4f.jpg" width="270" height="270" /> 
+<img src="https://user-images.githubusercontent.com/54088435/63214181-4925af00-c158-11e9-90d1-6d1b4e256a22.jpg" width="200" height="200" /> <img src="https://user-images.githubusercontent.com/54088435/63214192-6fe3e580-c158-11e9-875e-c5abcae6e154.jpg" width="200" height="200" /> <img src="https://user-images.githubusercontent.com/54088435/63214216-b20d2700-c158-11e9-9cac-6add81e76a4f.jpg" width="200" height="200" /> 
 
 ### Tools & Technologies
 
