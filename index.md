@@ -9,10 +9,9 @@
 - Nationality: Chinese Indonesian
 - Education: Bachelor of IT, RMIT
 - Languages: English, Indonesian, Japanese
-- Fact about myself: love music, fashion, piercings, tattoos, gaming and Japanese animation
+- Fact about myself: love music, fashion, piercings, tattoos, travel, coffee, gaming and Japanese animation
 
-<img src="https://user-images.githubusercontent.com/54088435/63213678-8be48880-c152-11e9-966b-cedfb8965ec1.jpg" width="300" height="300" />
-
+<img src="https://user-images.githubusercontent.com/54088435/63213908-26de6200-c155-11e9-8998-fd59c00a63a7.jpg" width="300" height="300" /> <img src="https://user-images.githubusercontent.com/54088435/63213678-8be48880-c152-11e9-966b-cedfb8965ec1.jpg" width="300" height="300" /> <img src="https://user-images.githubusercontent.com/54088435/63213893-f39bd300-c154-11e9-953c-2ca4dd8126d3.jpg" width="300" height="300" />
 
 ## 2. Interest in IT
 
