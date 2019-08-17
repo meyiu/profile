@@ -16,16 +16,14 @@
 
 Through the development of technology in recent years, I have grown interest in the future of technology and how it will affect society and the environment. My interest in IT started through sci-fi & cyberpunk Japanese animations such as Psycho Pass, Ghost in the Shell and Akira. 
 
-<img src="https://user-images.githubusercontent.com/54088435/63207860-e0ffaa80-c110-11e9-9f92-8bfb0b245b5d.gif" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/54088435/63207999-7bacb900-c112-11e9-9988-77f991959584.gif" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/54088435/63208019-cd554380-c112-11e9-9e0e-47fbe1592568.gif" width="250" height="250" />
+<img src="https://user-images.githubusercontent.com/54088435/63207860-e0ffaa80-c110-11e9-9f92-8bfb0b245b5d.gif" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/54088435/63207999-7bacb900-c112-11e9-9988-77f991959584.gif" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/54088435/63208019-cd554380-c112-11e9-9e0e-47fbe1592568.gif" width="350" height="250" />
 
 The futuristic environment and aspects of these series was what started my interest in IT and has made me wonder how technology would evolve in the future. The animation and visuals also made me interested in the production and design process of the series. Furthermore, I enjoy online shopping, thus I am also interested in how the fashion and clothing industry efficiently use technology to broaden their target market. I chose RMIT because I have heard that the IT course here is very interesting and has a good balance of both practical work and theories. Since I am new to IT, I expect to learn a lot more about this subject and how it will develop and change society in the future.
 
 
 ## 3. Ideal Job
 
-<img src="https://user-images.githubusercontent.com/54088435/63207738-99781f00-c10e-11e9-996b-dc0babc8f8fa.png" width="500" height="500" />
-
-<img src="https://user-images.githubusercontent.com/54088435/63207747-caf0ea80-c10e-11e9-9f98-cb8cae6c515d.png" width="500" height="500" />
+<img src="https://user-images.githubusercontent.com/54088435/63207738-99781f00-c10e-11e9-996b-dc0babc8f8fa.png" width="500" height="650" /> <img src="https://user-images.githubusercontent.com/54088435/63207747-caf0ea80-c10e-11e9-9f98-cb8cae6c515d.png" width="500" height="650" />
 
 
 __Description__
