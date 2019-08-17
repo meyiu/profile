@@ -48,17 +48,21 @@ My plan to achieve the skills, qualifications and experience needed for the posi
 
 ## 4. Personal Profile
 
-__Myers-Briggs Test__
+- __Myers-Briggs Test__
+
 
 <img src="https://user-images.githubusercontent.com/54088435/63208163-338e9600-c114-11e9-8788-a9bcbfa548d5.png" width="400" height="250" />
 
-__Learning Style Test__
+- __Learning Style Test__
+
 
 <img src="https://user-images.githubusercontent.com/54088435/63208184-7486aa80-c114-11e9-876d-6733081e141d.png" width="450" height="150" />
 
-__Big Five Personality Test__
+- __Big Five Personality Test__
+
 
 <img src="https://user-images.githubusercontent.com/54088435/63208186-76e90480-c114-11e9-9b1f-9e1aa3592b3a.png" width="250" height="180" />
+
 
 The results from these tests describes my personality and mindset and I believe that these results are accurate and displays how I act in society. It may influence me to overcome my introvert trait and encourage me to be more active in a team. I would also use these results to find various types of team members to ensure that our group will be able to work on each of our strengths and weaknesses.
 
