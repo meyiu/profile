@@ -1,10 +1,26 @@
-## Welcome to GitHub Pages
+## Introduction to IT: My Profile
+This website will present my views and interest in the world of IT. 
 
-You can use the [editor on GitHub](https://github.com/meyiu/project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal Information
 
-### Markdown
+- Name: Megan Soesanto
+- Student Number: s3725109
+- Email: s3725109@student.rmit.edu.au
+- Nationality: Chinese Indonesian
+- Education: Bachelor of IT, RMIT
+- Languages: English, Indonesian, Japanese
+- Fact about myself: listening to music – Japanese heavy metal & American hip hop, fashion, piercings and tattoos, gaming and watching Japanese animation.
+
+### Interest in IT
+
+Through the development of technology in recent years, I have grown interest in the future of technology and how it will affect society and the environment. My interest in IT started through sci-fi/cyberpunk Japanese animations such as Psycho Pass, Ghost in the Shell and Akira. The futuristic environment and aspects of these series was what started my interest in IT and has made me wonder how technology would evolve in the future. The animation and visuals also made me interested in the production and design process of the series. Furthermore, I enjoy online shopping, thus I am also interested in how the fashion and clothing industry efficiently use technology to broaden their target market. I chose RMIT because I have heard that the IT course here is very interesting and has a good balance of both practical work and theories. Since I am new to IT, I expect to learn a lot more about this subject and how it will develop and change society in the future.
+
+### Ideal Job
+
+![Seek1](file:///C:/Users/megan/OneDrive/Documents/RMIT/seek.png)
+![Seek2](file:///C:/Users/megan/OneDrive/Documents/RMIT/seek2.png)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
