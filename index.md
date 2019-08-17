@@ -11,13 +11,13 @@
 - Languages: English, Indonesian, Japanese
 - Fact about myself: I love music, fashion, piercings, tattoos, travel, coffee, gaming and Japanese animation. I also want to work and live overseas, and design my own brand or make my own art.
 
-<img src="https://user-images.githubusercontent.com/54088435/63213908-26de6200-c155-11e9-8998-fd59c00a63a7.jpg" width="150" height="150" /> <img src="https://user-images.githubusercontent.com/54088435/63213678-8be48880-c152-11e9-966b-cedfb8965ec1.jpg" width="150" height="150" /> <img src="https://user-images.githubusercontent.com/54088435/63213974-0367e700-c156-11e9-818d-4e47bf02728e.jpg" width="200" height="150" />
+<img src="https://user-images.githubusercontent.com/54088435/63213908-26de6200-c155-11e9-8998-fd59c00a63a7.jpg" width="180" height="180" /> <img src="https://user-images.githubusercontent.com/54088435/63213678-8be48880-c152-11e9-966b-cedfb8965ec1.jpg" width="180" height="180" /> <img src="https://user-images.githubusercontent.com/54088435/63213974-0367e700-c156-11e9-818d-4e47bf02728e.jpg" width="220" height="180" />
 
 ## 2. Interest in IT
 
 Through the development of technology in recent years, I have grown interest in the future of technology and how it will affect society and the environment. My interest in IT started through sci-fi & cyberpunk Japanese animations such as Psycho Pass, Ghost in the Shell and Akira. 
 
-<img src="https://user-images.githubusercontent.com/54088435/63207860-e0ffaa80-c110-11e9-9f92-8bfb0b245b5d.gif" width="150" height="150" /> <img src="https://user-images.githubusercontent.com/54088435/63207999-7bacb900-c112-11e9-9988-77f991959584.gif" width="150" height="150" /> <img src="https://user-images.githubusercontent.com/54088435/63208019-cd554380-c112-11e9-9e0e-47fbe1592568.gif" width="200" height="150" />
+<img src="https://user-images.githubusercontent.com/54088435/63207860-e0ffaa80-c110-11e9-9f92-8bfb0b245b5d.gif" width="180" height="180" /> <img src="https://user-images.githubusercontent.com/54088435/63207999-7bacb900-c112-11e9-9988-77f991959584.gif" width="180" height="180" /> <img src="https://user-images.githubusercontent.com/54088435/63208019-cd554380-c112-11e9-9e0e-47fbe1592568.gif" width="230" height="180" />
 
 The futuristic environment and aspects of these series was what started my interest in IT and has made me wonder how technology would evolve in the future. The animation and visuals also made me interested in the production and design process of the series. Furthermore, I enjoy online shopping, thus I am also interested in how the fashion and clothing industry efficiently use technology to broaden their target market. I chose RMIT because I have heard that the IT course here is very interesting and has a good balance of both practical work and theories. Since I am new to IT, I expect to learn a lot more about this subject and how it will develop and change society in the future.
 
