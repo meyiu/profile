@@ -66,7 +66,7 @@ The results from these tests describes my personality and mindset and I believe 
 
 ## 5. Project Ideas
 
-## Overview
+### Overview
 
 My project idea is developing a fashion smartphone app. The app will update latest fashion trends and upcoming releases from famous streetwear brands. Furthermore, it will provide product information, availability and links to nearby stores and website links. This allows the user not having to search online and to purchase easily from the app. It will also have a global market where brands and other enthusiasts can buy, sell and trade their collection. This will allow users to purchase rare items or brand’s previous season collection. I will also develop a gallery where users can show off their collection to help entice the target market to purchase more products. It will have a ranking system where users can vote for the best outfit every week, which will be featured on the app’s main page. Moreover, there will be a forum for users to discuss and ask questions relevant to fashion. There will also be a special forum to help users identify certain products or brands. 
 
