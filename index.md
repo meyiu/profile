@@ -12,6 +12,8 @@
 - Fact about myself: love music, fashion, piercings, tattoos, gaming and Japanese animation
 
 
+
+
 ## 2. Interest in IT
 
 Through the development of technology in recent years, I have grown interest in the future of technology and how it will affect society and the environment. My interest in IT started through sci-fi & cyberpunk Japanese animations such as Psycho Pass, Ghost in the Shell and Akira. 
@@ -70,7 +72,7 @@ My project idea is developing a fashion smartphone app. The app will update late
 
 ### Motivation
 
-From my experiences in online shopping, it gets very cluttered when looking at different websites for different kinds of products. Furthermore, it is also difficult to search websites for availability of products and the legitimacy of the seller. A lot of streetwear brands are also exclusive to certain countries or seasons, thus are very difficult to acquire. Therefore, I want to develop a fashion hub to allow users worldwide to enjoy the services provided in the app. 
+From my experiences in online shopping, it gets very cluttered when looking at different websites for different kinds of products. Furthermore, it is also difficult to search websites for availability of products and the legitimacy of the seller. A lot of streetwear brands are also exclusive to certain countries or seasons, thus are very difficult to acquire. Therefore, I want to develop a fashion hub to allow users worldwide to be able to purchase exclusive items, sell their own collection and be updated on the latest fashion news and to have an easy shopping experience.
 
 ### Description
 
