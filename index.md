@@ -42,6 +42,8 @@ The skills I have acquired include strong work ethics with remarkable customer h
 
 My plan to achieve the skills, qualifications and experience needed for the position is to graduate with my degree at RMIT and to work in the IT and Commerce industry. I also plan to work abroad, specifically in Japan to develop my language and communication skills. Furthermore, I wish to improve my teamwork skills by working in a team-based environment, as well as learning project management software skills to improve work efficiency.
 
+<img src="https://user-images.githubusercontent.com/54088435/63214593-8c365100-c15d-11e9-86cb-6a471108bbf5.jpg" width="180" height="180" /> <img src="https://user-images.githubusercontent.com/54088435/63214633-0535a880-c15e-11e9-861f-f6be27cf8d2c.jpg" width="180" height="180" /> <img src="https://user-images.githubusercontent.com/54088435/63214600-a839f280-c15d-11e9-959f-80163d5b86dd.jpg" width="180" height="180" /> 
+
 ## 4. Personal Profile
 
 ### Myers-Briggs Test
