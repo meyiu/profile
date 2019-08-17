@@ -11,7 +11,7 @@
 - Languages: English, Indonesian, Japanese
 - Fact about myself: love music, fashion, piercings, tattoos, gaming and Japanese animation
 
-<img src="https://user-images.githubusercontent.com/54088435/63213678-8be48880-c152-11e9-966b-cedfb8965ec1.jpg" width="300" height="300 />
+<img src="https://user-images.githubusercontent.com/54088435/63213678-8be48880-c152-11e9-966b-cedfb8965ec1.jpg" width="300" height="300" />
 
 
 ## 2. Interest in IT
