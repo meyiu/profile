@@ -19,6 +19,8 @@ Through the development of technology in recent years, I have grown interest in 
 
 ## 3. Ideal Job
 
+![seek](https://user-images.githubusercontent.com/54088435/63207738-99781f00-c10e-11e9-996b-dc0babc8f8fa.png)
+
 __Description__
 
 This position’s responsibilities include working to develop eCommerce platforms for clients that will assist in the growth of their business. This position is appealing to me as it has elements of IT mixed with Commerce and Marketing, which I am very interested in. It also states that experience with working in the fashion industry is extremely desirable, and I am very interested in working in a hybrid of IT and fashion industries. 
