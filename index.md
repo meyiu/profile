@@ -12,10 +12,6 @@
 - Fact about myself: love music, fashion, piercings, tattoos, gaming and Japanese animation
 
 
-
-
-
-
 ## 2. Interest in IT
 
 Through the development of technology in recent years, I have grown interest in the future of technology and how it will affect society and the environment. My interest in IT started through sci-fi & cyberpunk Japanese animations such as Psycho Pass, Ghost in the Shell and Akira. 
@@ -64,7 +60,7 @@ My plan to achieve the skills, qualifications and experience needed for the posi
 <img src="https://user-images.githubusercontent.com/54088435/63208186-76e90480-c114-11e9-9b1f-9e1aa3592b3a.png" width="250" height="180" />
 
 
-The results from these tests describes my personality and mindset and I believe that these results are accurate and displays how I act in society. It may influence me to overcome my introvert trait and encourage me to be more active in a team. I would also use these results to find various types of team members to ensure that our group will be able to work on each of our strengths and weaknesses.
+The results from these tests describes my personality and mindset and I believe that these results are accurate and displays how I act in an environment. These results also help me to understand my strength and weakness points, and to realise how I think and act.  It may influence me to overcome my introvert trait and encourage me to be more active in a team. I would also use these results to find various types of team members to ensure that our group will be able to work on each of our strengths and weaknesses.
 
 ## 5. Project Ideas
 
@@ -78,7 +74,12 @@ From my experiences in online shopping, it gets very cluttered when looking at d
 
 ### Description
 
-The smartphone app will have a home page with images of the current fashion news and new releases available for purchase. 
+The app will have a sidebar categorised with Home, Browse, Market. Forums and Profile icons to create an organised area. The design of the app will be clean and minimal to ensure easier browsing. Furthermore, users are encouraged to create their own profiles to for easier accessibility and better security.
+The Home page will display recent fashion articles and upcoming releases, as well as a gallery of user's most liked photos. Moreover, it will also feature current fashion trends of celebrities and other Instagrammers. 
+The Browse page will allow users to search a specific product or brand, with additional filters to make the process easier. 
+The Market page will contain not only popular streetwear brands, but will also allow individuals to buy and sell their own products. The profit of the items sold will be given but  Furthermore, rare products are able to be put on bid for better chances of purchasing items. The availability of the item is also displayed, and multiple links to different stores are placed to allow users to check the stores from our app rather than having multiple websites opened at once. 
+There will also be a Forums page where users are able to discuss fashion topics and identify products or brands they don't know. It will be a great way for all fashion enthusiasts to gather and socialise.
+Lastly, there will be a Profile page where users are able to set up their name, profile picture, favourite brands, and are able to link and upload their own images to the app for others to like, share and see. The most liked photo will be featured in the home page for a week for everyone to see.
 
 ### Tools & Technologies
 
