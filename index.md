@@ -12,6 +12,10 @@
 - Fact about myself: love music, fashion, piercings, tattoos, gaming and Japanese animation
 
 
+
+
+
+
 ## 2. Interest in IT
 
 Through the development of technology in recent years, I have grown interest in the future of technology and how it will affect society and the environment. My interest in IT started through sci-fi & cyberpunk Japanese animations such as Psycho Pass, Ghost in the Shell and Akira. 
@@ -23,7 +27,7 @@ The futuristic environment and aspects of these series was what started my inter
 
 ## 3. Ideal Job
 
-<img src="https://user-images.githubusercontent.com/54088435/63207738-99781f00-c10e-11e9-996b-dc0babc8f8fa.png" width="500" height="650" /> <img src="https://user-images.githubusercontent.com/54088435/63207747-caf0ea80-c10e-11e9-9f98-cb8cae6c515d.png" width="500" height="650" />
+<img src="https://user-images.githubusercontent.com/54088435/63207738-99781f00-c10e-11e9-996b-dc0babc8f8fa.png" width="430" height="600" /> <img src="https://user-images.githubusercontent.com/54088435/63207747-caf0ea80-c10e-11e9-9f98-cb8cae6c515d.png" width="430" height="600" />
 
 
 __Description__
